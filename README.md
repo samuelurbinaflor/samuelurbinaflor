@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm **Samuel Urbina Flor**  
+# 👋 Hey there! I'm **Samuel**  
 
 🎮 Web developer and student of the **Specialization Course in Video Game and Virtual Reality Development**.  
 💡 Passionate about design, programming, and the creative side of interactive worlds.  
