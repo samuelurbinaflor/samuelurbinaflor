@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:9AD0EC,100:BBE2F2&text=Hey%20there!%20I'm%20Samuel%20Urbina%20🎮&fontColor=1b1b1b&fontSize=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:9AD0EC,100:BBE2F2&text=Hey%20there!%20I'm%20Samuel%20🎮&fontColor=1b1b1b&fontSize=35&animation=fadeIn" />
 </div>
 
 ---
@@ -67,7 +67,7 @@ When I’m not coding: 🎨 painting · 🖌 digital illustration · 📚 readin
 
 ### 📫 Let's Connect!
 <p align="center">
-  <a href="mailto:samuelurbinaflor@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:samuelurbinaflor@gmail.com"><img src="https://img.shields.io/badge/Email-samuelurbinaflor@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/samuel-urbina-flor/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
