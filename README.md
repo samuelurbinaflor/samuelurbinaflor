@@ -1,5 +1,3 @@
-# 👋 Hey there! I'm Samuel
-
 <!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:9AD0EC,100:BBE2F2&text=Hey%20there!%20I'm%20Samuel%20&fontColor=1b1b1b&fontSize=35&animation=fadeIn" />
