@@ -45,12 +45,14 @@ I'm passionate about combining technology, design, and art to build engaging dig
 - Exploring digital approaches to documenting, visualizing, and presenting scientific collections.
 - Combining technical skills and creative thinking in a scientific museum environment.
 
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
 
 #### **Web Development Internship — Navantia 🇪🇸**
 *April – June 2024*
 
 - Contributed to a **Digital Twin project** involving an internal web application for managing information about Spanish Navy ships.
 
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
 
 #### **AESMA — Artistic Portfolio & E-commerce Platform**  
 *Final Web Development Project · Grade: 9/10*
@@ -61,6 +63,7 @@ I'm passionate about combining technology, design, and art to build engaging dig
 
 **Technologies:** Angular 18 · Symfony 7 · MySQL · Stripe · Docker
 
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · 
 
 #### **Video Game Development Projects**  
 *Academic Projects · Video Game and Virtual Reality Development*
