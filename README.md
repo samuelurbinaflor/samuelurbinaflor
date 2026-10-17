@@ -17,18 +17,19 @@ I'm passionate about combining technology, design, and art to build engaging dig
 
 ### 🚀 What I'm Currently Doing
 
-- 🇩🇪 Completing an **Erasmus+ internship at Heidelberg University**
-- 🌍 Gaining international experience in an academic and scientific environment
-- 🎮 Exploring game development and interactive experiences with **Godot** and **Unity**
-- 💻 Expanding my skills in web development and creative programming
-- 🎨 Exploring the intersection of art, technology, and digital storytelling
+- Completing an **Erasmus+ internship at Heidelberg University**
+- Learning German and improving my language skills.
+- Gaining international experience in an academic and scientific environment
+- Exploring game development and interactive experiences with **Godot** and **Unity**
+- Expanding my skills in web development and creative programming
+- Exploring the intersection of art, technology, and digital storytelling
 
 ---
 
 ### 🎓 Education
 
-- **Specialization Course in Video Game and Virtual Reality Development**  
-  *IES Rafael Alberti, Spain* · Completed in 2026
+- **Postgraduate Specialization in Video Game and Virtual Reality Development**  
+  *IES Rafael Alberti, Spain* · 2025-2026
 
 - **Higher Vocational Degree in Web Application Development**  
   *IES Fernando Aguilar Quignon, Spain* · 2022–2024
@@ -37,18 +38,21 @@ I'm passionate about combining technology, design, and art to build engaging dig
 
 ### 💼 Experience & Projects
 
-**Erasmus+ Internship — Heidelberg University 🇩🇪**  
+#### **Erasmus+ Internship — Heidelberg University 🇩🇪**  
 *Institute of Earth Sciences · 2026*
 
-- International internship in a university and scientific museum environment.
-- Exploring opportunities to apply digital technologies and creative skills in an academic context.
+- Working with 3D models of museum specimens, including rocks, fossils, and other geological objects.
+- Exploring digital approaches to documenting, visualizing, and presenting scientific collections.
+- Combining technical skills and creative thinking in a scientific museum environment.
 
-**Web Development Internship — Navantia 🇪🇸**  
+
+#### **Web Development Internship — Navantia 🇪🇸**
 *April – June 2024*
 
 - Contributed to a **Digital Twin project** involving an internal web application for managing information about Spanish Navy ships.
 
-**AESMA — Artistic Portfolio & E-commerce Platform**  
+
+#### **AESMA — Artistic Portfolio & E-commerce Platform**  
 *Final Web Development Project · Grade: 9/10*
 
 - Developed a portfolio platform for artist Ana Estrada Macías.
@@ -56,6 +60,16 @@ I'm passionate about combining technology, design, and art to build engaging dig
 - Integrated Stripe test payments and email functionality.
 
 **Technologies:** Angular 18 · Symfony 7 · MySQL · Stripe · Docker
+
+
+#### **Video Game Development Projects**  
+*Academic Projects · Video Game and Virtual Reality Development*
+
+- Developed video game prototypes as part of my specialization course.
+- Worked on gameplay mechanics, interactive systems, and game design.
+- Explored creative and technical approaches to interactive experiences.
+
+**Technologies:** Unity · Godot · Blender
 
 ---
 
@@ -70,10 +84,14 @@ I'm passionate about combining technology, design, and art to build engaging dig
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 </p>
-
 ---
 
 ### 🌐 Languages
@@ -89,7 +107,7 @@ Curious, creative, and solution-oriented, I enjoy working at the intersection of
 
 My background combines programming with a strong interest in visual arts, allowing me to approach projects from both technical and creative perspectives.
 
-When I'm not coding, you'll probably find me painting, illustrating, reading, playing video games, taking photographs, making things, or exploring somewhere new.
+When I'm not coding, you'll probably find me painting, illustrating, reading, playing video games, taking photographs, building things, or exploring somewhere new.
 
 ---
 
